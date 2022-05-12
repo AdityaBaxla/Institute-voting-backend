@@ -20,5 +20,6 @@ features:
 - deployed in IPFS
 - front page destroyed in the given time
 - voting time specified
+- connecting personal info to wallet address (one person should only be able to vote once)
 
 
